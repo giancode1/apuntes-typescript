@@ -1,0 +1,11 @@
+npm install -g typescript
+tsc --version
+
+tsc archivo.ts //genera archivo.js
+
+tsc --init //tsconfig.json
+
+tsc //todos los archivos q cuplen los criterios con la conf de tsconfig`
+
+tsc --watch
+tsc -w

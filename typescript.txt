@@ -1,0 +1,8 @@
+//typescript es el mismo js con tipos y nuevas funcionalidades que solo se aplican a typescript
+// es un traspilador
+
+//solo existe en typescript:
+tuplas
+enumeraciones  (enums)
+void  //vacio
+never  //nunca
