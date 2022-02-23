@@ -1,5 +1,6 @@
 "noImplicitAny": true, //para los argumentos sin tipado da error
 "sourceMap": true,  //ahora me dice en que lineas de ts hay los logs, errores 
+"removeComments": true, //quita comentarios en archivos js
 
 tsconfig:
 https://www.typescriptlang.org/docs/handbook/tsconfig-json.html

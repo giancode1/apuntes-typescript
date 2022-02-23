@@ -107,6 +107,7 @@
   //   "04-node_modules2/carpetaEspecifica/*.ts",
   // ],'
   "include": [
-    "05-ES6"
+    // "05-ES6",
+    "06-clases",
   ]
 }
