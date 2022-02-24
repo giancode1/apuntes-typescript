@@ -109,6 +109,7 @@
   "include": [
     // "05-ES6",
     // "06-clases",
-    "07-interfaces",
+    // "07-interfaces",
+    "08-namespaces",
   ]
 }
