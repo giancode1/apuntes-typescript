@@ -108,6 +108,7 @@
   // ],'
   "include": [
     // "05-ES6",
-    "06-clases",
+    // "06-clases",
+    "07-interfaces",
   ]
 }
