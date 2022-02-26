@@ -1,3 +1,5 @@
+//renombrar a index.ts
+//npm start
 import { Hero as SuperHeroe, Hero2} from './classes/Hero';
 import powers, { Power } from './data/powers';
 

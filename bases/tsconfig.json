@@ -102,6 +102,7 @@
   "exclude": [
     // "04-node-modules2/*.ts",
     "04-node_modules2",
+    "ts-node"
   ],
   // "include": [ //lo unico que quieres incluir, cuidado
   //   "04-node_modules2/carpetaEspecifica/*.ts",
