@@ -14,4 +14,9 @@
     avengers = Number('55A');
     console.log({avengers}); //NaN es considerado un numero
 
+    //mas numeros
+    let hex: number = 0xf00d;
+    let binary: number = 0b1010;
+    let octal: number = 0o744;
+
 })()

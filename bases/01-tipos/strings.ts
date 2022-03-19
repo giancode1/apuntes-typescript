@@ -1,6 +1,7 @@
 //funcion anonima autoinvocada, con el objetivo de que no choque nuestro codigo en el caso que declaremos variables con el mismo nombre
 (() => {
-
+    let nombre = "Gian"; //inferido
+    let nombre2:string = "Gian"; //explicito
     const batman: string = 'Batman';
     const flash: string = "Flash's"; //con comillas dobles se puede hacer una cadena de texto con comillas simples
     const abc:number = 123;

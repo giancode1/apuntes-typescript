@@ -24,5 +24,24 @@
     console.log(currentAudioLevel)
 
 
+    //mas ejemplos:
+    enum PictureOrientation {
+        Landscape = 10, // 10
+        Portrait, // 11
+        Square, // 12
+        Panorama // 13
+    }
+    console.log('portrait', PictureOrientation.Portrait);
+    
+    enum Country {
+        Bolivia = 'bol',
+        Colombia = 'col',
+        Mexico = 'mex',
+        EEUU = 'usa',
+        Espana = 'esp'
+    }
+    
+    const country: Country = Country.Colombia;
+    console.log('country', country);
 
 })()
